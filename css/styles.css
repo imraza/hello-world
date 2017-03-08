@@ -1,0 +1,6 @@
+.bg-img {
+    background-image: url("../img/hello.jpg");
+    height: 670px;
+    width: auto;
+    background-repeat: no-repeat;  
+}
